@@ -2,7 +2,7 @@
 # **Quote Generator**  
 
 A simple React app that generates random inspirational quotes with a clean, modern UI.  
- 
+ ![Image](https://github.com/user-attachments/assets/8e2e5518-3158-4635-985a-f1d8b9547ded)
 
 ## **Features**  
 - 🎉 Random quote generation  
